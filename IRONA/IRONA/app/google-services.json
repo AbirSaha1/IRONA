@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "22010911815",
+    "firebase_url": "https://irona-3655f.firebaseio.com",
+    "project_id": "irona-3655f",
+    "storage_bucket": "irona-3655f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22010911815:android:f57432317f08cf8b",
+        "android_client_info": {
+          "package_name": "com.sandass.irona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22010911815-1416g2al8ege856nrl6va5mm8jr6ojvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAckbhaYAie9jVW0e3ZwSfpSU7p7lajSRU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
